@@ -1,0 +1,3 @@
+steps:
+- script: 'clean-registry-demo.exe'
+  displayName: Clean registry
